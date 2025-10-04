@@ -13,3 +13,4 @@ jobs:
       alphas: '["qwerty"]'
       clipboard: '["mac"]'
       nav: '["vi"]'
+      layers: '["flip"]'
