@@ -12,3 +12,4 @@ jobs:
       shield: '["corne_left","corne_right"]'
       alphas: '["qwerty"]'
       clipboard: '["mac"]'
+      nav: '["vi"]'
